@@ -2,10 +2,8 @@ discord
 asyncio
 youtube-dl
 PyNaCl
-system
 get
 tasks
 requests
-shutil
 cs
 os
