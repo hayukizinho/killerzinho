@@ -1,5 +1,13 @@
 discord
 asyncio
 youtube-dl
+cycle
 PyNaCl
+system
+get
+commands
+tasks
 requests
+shutil
+cs
+os
