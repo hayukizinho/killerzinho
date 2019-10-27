@@ -1,9 +1,8 @@
 discord
 asyncio
 youtube-dl
-PyNaCl
-get
-tasks
-requests
-cs
-os
+pynacl==1.2.1
+discord.py[voice]==1.2.4
+pip
+colorlog
+cffi --only-binary all; sys_platform == 'win32'
